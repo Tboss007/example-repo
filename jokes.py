@@ -12,3 +12,4 @@ jokes = ["\nWhy can’t you hear a pterodactyl going to the bathroom?\n Because 
 
 value = random.choice(jokes)
 print(value)
+# end
